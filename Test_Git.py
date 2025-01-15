@@ -1,1 +1,2 @@
-print("Xin chào")
+print("Xin chà")
+print("Hi son")
